@@ -1,0 +1,51 @@
+.background{
+   
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: rgb(63, 207, 87);
+}
+#recipes {
+    font-size: 25px;
+    text-align: center;
+    margin: 10px
+    
+}
+
+.button{
+    display:block;
+    text-decoration: none;
+    color:inherit;
+    padding: 20px;
+}
+
+.button.tiramisu{
+
+    background-color: rgb(63, 207, 128);
+}
+.button.brownie{
+    background-color: rgb(63, 197, 207) ;
+
+}
+
+.button.choco{
+    background-color: rgb(63, 142, 207);
+}
+
+.button.tiramisu:hover{
+    background-color: rgb(51, 170, 105);
+    
+}
+
+.button.brownie:hover{
+    background-color: rgb(48, 151, 158);
+}
+
+.button.choco:hover{
+    background-color: rgb(51, 117, 170);
+}
+
